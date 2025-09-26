@@ -149,5 +149,4 @@ For more info about usage checkout [YouTube video](https://www.youtube.com/watch
 
 
 
-## If you like this project, please give it a 🌟.
-## Thank you 😊.
+
